@@ -10,7 +10,7 @@ for url in $urls ; do
 	grep -v encrypted | \
 	grep -v protected | \
     grep -v 2_____with_chart | \
-	xargs ../xls2txt {} \;
+	xargs ../xls2txt.py {} \;
 done
 
 
