@@ -1,6 +1,7 @@
 ###### Requirements without Version Specifiers ######`
 xlrd
 openpyxl
+xmltodict
 
 ###### Requirements with Version Specifiers ######`
 
